@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<total>
+  <result>
+    <Person name="Михаил" wallet="1.34" аppendFromBank="458.51"/>
+    <Person name="Татьяна" wallet="2.12" аppendFromBank="457.73"/>
+    <Person name="Игорь" wallet="3.44" аppendFromBank="456.41"/>
+    <Person name="Александр" wallet="5.15" аppendFromBank="454.70"/>
+    <Person name="Георг" wallet="2.11" аppendFromBank="457.74"/>
+    <Person name="Оля" wallet="1.43" аppendFromBank="458.42"/>
+    <Person name="Светлана" wallet="4.25" аppendFromBank="455.59"/>
+  </result>
+  <minimum>
+    <Person name="Александр"/>
+  </minimum>
+</total>
